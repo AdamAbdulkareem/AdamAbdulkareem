@@ -4,4 +4,3 @@
 - 📫 How to reach me: dmabdulkareem@gmail.com 
 
 <img alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=AdamAbdulkareem&theme=dark&show_icons=true" width="47%" align="left"/>
-
