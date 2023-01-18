@@ -1,6 +1,3 @@
-<img align="right" width="400" src="https://www.canva.com/design/DAFX_idlb0Y/VFGDjQcnpo7kX2cjYJuEfg/view?utm_content=DAFX_idlb0Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-
-
 ### Hi there 👋
  I'm a software engineer and freelancer with 2 years of work experience in tech. 
 - 🔭 I always contribute to open source projects. 
