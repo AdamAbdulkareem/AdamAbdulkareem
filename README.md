@@ -1,7 +1,10 @@
 ### Hi there 👋
  I'm a software engineer and freelancer with 2 years of work experience in tech. 
-- 🔭 I always contribute to open source projects. 
-- 📫 How to reach me: dmabdulkareem@gmail.com 
+### - 🔭 I always contribute to open source projects.  
+### - 👀 I’m interested in Software Engineering
+### - 💞️ I’m actively searching for internships or entry-level cloud roles.
+### - ⚡ Fun fact: I love research and learning new things everyday.
+### - 📫 How to reach me: dmabdulkareem@gmail.com
 
 <img align="left" alt="profile-stats" src="https://github-readme-stats.vercel.app/api?username=AdamAbdulkareem&theme=dark&show_icons=true" width="47%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamAbdulkareem&langs_count=8">
