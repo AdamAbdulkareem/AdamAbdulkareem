@@ -2,7 +2,7 @@
  I'm a software engineer and freelancer with 2 years of work experience in tech. 
 ### - 🔭 I always contribute to open source projects.  
 ### - 👀 I’m interested in Software Engineering
-### - 💞️ I’m actively searching for internships or entry-level cloud roles.
+### - 💞️ I’m actively searching for internships or entry-level software engineer roles.
 ### - ⚡ Fun fact: I love research and learning new things everyday.
 ### - 📫 How to reach me: dmabdulkareem@gmail.com
 
